@@ -25,7 +25,7 @@ body {
 .title {
     position: absolute;
     top: 10px;
-    font-size: 45px;
+    font-size: 10px;
     color: white;
     z-index: 999;
     font-family: 'Poppins', sans-serif;
